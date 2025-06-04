@@ -42,7 +42,21 @@ You can:
 - mark it as done using the checkbox
 
 - click🗑️ to remove a task
-  
+
+🚀 Applications
+
+✅ Task Organization: Allows users to list, track, and manage daily tasks efficiently.
+
+✅ Productivity Boost: Helps improve time management by keeping tasks visible and structured.
+
+✅ Reminder System: Users can refer to their task list to avoid forgetting important duties.
+
+✅ Learning Project: Ideal for beginners learning Python and list/dictionary manipulation.
+
+✅ Custom Extensions: Can be extended with features like deadlines, categories, or priorities for more advanced functionality.
+
+✅ Offline Utility: Works without internet, which makes it a helpful tool for personal task tracking on the go.
+
 ## 👩‍💻 Author :
 
 Pulamarisetty Neha  
